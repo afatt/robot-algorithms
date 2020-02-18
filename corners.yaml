@@ -1,0 +1,29 @@
+# TEST CASE 1 -> First Quad
+- {'name': 'coord1', 'position': {'x': 0.0, 'y': 0.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+- {'name': 'coord2', 'position': {'x': 8.0, 'y': 0.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+- {'name': 'coord3', 'position': {'x': 8.0, 'y': 8.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+- {'name': 'coord4', 'position': {'x': 0.0, 'y': 8.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+
+# TEST CASE 2 -> Second Quad
+# - {'name': 'coord1', 'position': {'x': -8.0, 'y': 0.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+# - {'name': 'coord2', 'position': {'x': 0.0, 'y': 0.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+# - {'name': 'coord3', 'position': {'x': 0.0, 'y': 8.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+# - {'name': 'coord4', 'position': {'x': -8.0, 'y': 8.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+
+# TEST CASE 3 -> Third Quad
+# - {'name': 'coord1', 'position': {'x': -8.0, 'y': -8.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+# - {'name': 'coord2', 'position': {'x': 0.0, 'y': -8.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+# - {'name': 'coord3', 'position': {'x': 0.0, 'y': 0.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+# - {'name': 'coord4', 'position': {'x': -8.0, 'y': 0.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+
+# TEST CASE 4 -> Forth Quad
+# - {'name': 'coord1', 'position': {'x': 0.0, 'y': -8.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+# - {'name': 'coord2', 'position': {'x': 8.0, 'y': -8.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+# - {'name': 'coord3', 'position': {'x': 8.0, 'y': 0.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+# - {'name': 'coord4', 'position': {'x': 0.0, 'y': 0.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+
+# TEST CASE 5 -> All Quads
+# - {'name': 'coord1', 'position': {'x': -8.0, 'y': -8.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+# - {'name': 'coord2', 'position': {'x': 8.0, 'y': -8.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+# - {'name': 'coord3', 'position': {'x': 8.0, 'y': 8.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
+# - {'name': 'coord4', 'position': {'x': -8.0, 'y': 8.0}, 'orientation': {'r1': 0.0,'r2': 0.0,'r3': 1.0}}
